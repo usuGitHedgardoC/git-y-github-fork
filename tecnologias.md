@@ -28,6 +28,7 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 |#| NOMBRE | ENLACE | INTERESADOS |
 |-|-|-|-|
 |1|Sistemas de Control de Versiones|[Git](http://www.git.com)|1| 
-||||
+|2|Java|[Java](https://adoptium.net/)|1|
+|||||
 
 ---
